@@ -9,13 +9,10 @@ This showcases the django projects I have created along my educational journey.
 - news
 ## Django for Professionals (Book) Projects:
 - bookstore
-## Test Driven Development Infrastucture and Deployment Projects:
-- Nginx
-- Docker
-Infrastructure Components via AWS
-- RDS
-- S3
-- CloudFront
-- ECR
+## testdriven.io deployment methodologies
+- Nginx, Docker
+- AWS RDS, S3, CloudFront, ECR
+
 ## Personal Projects
 - Bookswap
+- pw5k.com
